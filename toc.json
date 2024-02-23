@@ -1,20 +1,5 @@
 [
   {
-    "groupName": "basic",
-    "folderName": "10_basic",
-    "children": [
-      {
-        "id": "z3uJ3OLwf2z/bAlG9yYAuADV/gA=",
-        "mf": "C4H8O",
-        "idCodeHash": "21dcc0027d441801e362cec51f90e9b9",
-        "idCode": "gJQ@@eKS@@",
-        "file": "./10_basic/ethylvinylether/index.json",
-        "title": "ethylvinylether",
-        "selected": true
-      }
-    ]
-  },
-  {
     "groupName": "solvent",
     "folderName": "10_solvent",
     "children": [
@@ -24,7 +9,8 @@
         "idCodeHash": "6dcd1895bf667363055aa89da065612d",
         "idCode": "gCa@@dsP@",
         "file": "./10_solvent/10_Exercise 1/index.json",
-        "title": "Exercise 1"
+        "title": "Exercise 1",
+        "selected": true
       },
       {
         "id": "/AZJUKIYPTQICxnDiTVJWtgV5Ck=",
@@ -41,6 +27,20 @@
         "idCode": "gOp@DjWkB@@@",
         "file": "./10_solvent/30_Exercise 3/index.json",
         "title": "Exercise 3"
+      }
+    ]
+  },
+  {
+    "groupName": "simple",
+    "folderName": "20_simple",
+    "children": [
+      {
+        "id": "zPOqiLMtckX1f8N/OxAP/Pcw0+U=",
+        "mf": "C4H8O",
+        "idCodeHash": "21dcc0027d441801e362cec51f90e9b9",
+        "idCode": "gJQ@@eKS@@",
+        "file": "./20_simple/10_Exercise 1/index.json",
+        "title": "Exercise 1"
       }
     ]
   }
